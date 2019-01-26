@@ -1,7 +1,8 @@
 package ApplicationController;
+
 import java.util.HashMap;
 
-public class AppController {
+public class appController  {
 	
 	public static void main(String[] args) {
 		
@@ -15,6 +16,5 @@ public class AppController {
 		
 		System.out.println(mapNames);
 	}
-	
 
 }
